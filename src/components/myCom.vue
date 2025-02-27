@@ -11,6 +11,6 @@ export default{
 <style>
 h3{
     color:red;
-    font-size: 30px;
+    font-size: 40px;
 }
 </style>
